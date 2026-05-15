@@ -1,39 +1,31 @@
-# YOLO
+# Hey, I'm YOLO 👋
 
-Builder · AI Explorer · Vibe Coder
+CS grad student who builds things to learn things.
 
-I learn by shipping — turning ideas into working prototypes fast, then iterating in public.
+My current mode: **vibe coding** — using AI to collapse the gap between idea and working prototype, then iterating in public. I'm not trying to look like I've arrived. I'm focused on shipping.
 
-**Currently building:**
+Right now I'm working on:
 
-- AI agents with LangGraph & LangChain — multi-step workflows, tool use, orchestration
-- Small web products — rapid prototypes that solve real problems
-- A portfolio that grows alongside the work
+- AI agents with LangGraph & LangChain — exploring multi-step reasoning, tool use, and orchestration
+- Small web products and useful prototypes
+- A personal site and portfolio that grows as the work does → [awesomebaron001.github.io](https://awesomebaron001.github.io)
+
+**I reach for:** Python · LangGraph · LangChain · Next.js · TypeScript
+
+**Projects**
+
+I'm actively building my first public projects. This section will grow as they ship.
+
+**Find me:** [Site](https://awesomebaron001.github.io) · [Blog](https://blog.csdn.net/m0_46464899) · hollyzhao001@gmail.com
 
 ---
 
 <div align="center">
 
+*and just for fun —*
+
 ![Space Shooter](game.gif)
 
-*GitHub contributions as a space shooter — updated daily*
+*My GitHub contributions as a space shooter · updated daily*
 
 </div>
-
----
-
-**Tech stack:** Python · LangGraph · LangChain · Next.js · TypeScript
-
-## Featured Projects
-
-> Actively building. First projects coming soon.
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| Coming soon | — | — |
-
----
-
-**Personal site:** [awesomebaron001.github.io](https://awesomebaron001.github.io)
-**Blog:** [blog.csdn.net/m0_46464899](https://blog.csdn.net/m0_46464899)
-**Email:** hollyzhao001@gmail.com
