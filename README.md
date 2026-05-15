@@ -10,9 +10,19 @@ I learn by shipping — turning ideas into working prototypes fast, then iterati
 - Small web products — rapid prototypes that solve real problems
 - A portfolio that grows alongside the work
 
-**Tech stack:** Python · LangGraph · LangChain · Next.js · TypeScript
+---
+
+<div align="center">
+
+![Space Shooter](game.gif)
+
+*GitHub contributions as a space shooter — updated daily*
+
+</div>
 
 ---
+
+**Tech stack:** Python · LangGraph · LangChain · Next.js · TypeScript
 
 ## Featured Projects
 
